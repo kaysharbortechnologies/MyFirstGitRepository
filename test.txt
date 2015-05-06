@@ -3,3 +3,5 @@ Hi, Good to see you.
 I am new to git.
 
 I am able to sync.
+
+I am able to add new User.
