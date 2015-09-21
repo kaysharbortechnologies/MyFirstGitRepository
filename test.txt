@@ -1,7 +1,7 @@
 Hi, Good to see you.
 
-I am new to git.
+I have started learning Github.
 
-I am able to sync.
+I am able to understand the workflow.
 
 I am able to add new User.
